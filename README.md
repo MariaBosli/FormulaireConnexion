@@ -1,6 +1,6 @@
 # FormulaireConnexion
 #Information technique :
-  -Pour les langagues j'au utiliser HTML , CSS , JS , PHP
+  -Pour les langagues j'au utiliser HTML , CSS , JS , PHP.
   -j'ai aussi utiliser un template qui est disponible sur le site colorlib pour avoir un joli formulaire
   -pour la base de donnée : MySQL
  #comment l'utuliser:
