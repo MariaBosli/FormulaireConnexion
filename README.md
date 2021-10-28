@@ -1,9 +1,9 @@
 # FormulaireConnexion
-#Information technique :
+# Information technique :
   -Pour les langagues j'au utiliser HTML , CSS , JS , PHP.
   -j'ai aussi utiliser un template qui est disponible sur le site colorlib pour avoir un joli formulaire.
   -pour la base de donnée : MySQL
- #comment l'utuliser:
+ # comment l'utuliser:
   -d'abort l'outil neccesaire pour pouvoir l'exécuter c'est le wampserver.
   -premierement il faut ouvrire la bdd que j'ai mis dans le dossier "base de donne" avec phpmyadmin , et puis mettre le dossier "login" tout entier dans le repertoir www
   aprés lancer l'exécution une fenetre de connction sera afficher.
@@ -13,7 +13,7 @@
     s' il tape un password erroné il peut pas entrer et rien sera afficher .
     s'il tape son password vrai , ici il retre directement dans sa session et un msg "vous etes connecté en tant que : mail " sera affiché . 
    - j'ai mis 2 boutton un pour la connection et l'autre pour le reset.
-  #identifiant/mot de passe : 
+  # identifiant/mot de passe : 
     si vous vouler tester avec un user qui est déja insérer dans la bdd vous pouver utiliser .
       email : maria.bosli.pro@gmail.com
       mdp : maria
